@@ -150,7 +150,9 @@ These insights provide valuable information for understanding the demographics, 
 ![image](https://github.com/jtndr26/Bank_Loan_Applications/assets/78334379/3669c752-cd7f-4218-b8d4-d894c6a88049)
 ![image](https://github.com/jtndr26/Bank_Loan_Applications/assets/78334379/8af5d36e-c7c8-4a65-81d1-529fd9044320)
 
-![image](https://github.com/jtndr26/Bank_Loan_Applications/assets/78334379/5ec2c55f-0735-4cb9-94f6-9a9981fd1421)
+![image](https://github.com/jtndr26/Bank_Loan_Applications/assets/78334379/7f9f793c-1081-4493-8fbf-555551165e93)
+![image](https://github.com/jtndr26/Bank_Loan_Applications/assets/78334379/d7ca12b9-b582-4954-81f3-6d9e51d1b50c)
+
 
 ## **Conclusion**:
 The exploratory data analysis (EDA) of the provided datasets offers valuable insights into the demographics, socio-economic attributes, and occupational profiles of loan applicants. The gender distribution indicates a significant predominance of female applicants, suggesting potential gender-specific trends in loan application behavior. Education level analysis reveals that a large proportion of applicants have attained a Secondary/Secondary Special education, highlighting the need for tailored financial products and services for individuals with varying educational backgrounds.
